@@ -21,7 +21,7 @@ body{
     color:hsl(234, 12%, 34%) ;
 }
 .title h1{
-    font-weight: 100;
+    font-weight: 200;
     max-width: 100%;
 }
 .title h1 strong{
@@ -41,14 +41,15 @@ body{
     background-color: white;
     border-top: 5px solid hsl(180, 62%, 55%);
     border-radius: 5px;
-    width: 311px;
-    height: 205px;
+    width: 383px;
+    height: 242px;
     padding: 20px;
     margin: 25px 13px 25px 25px;
     -webkit-box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.26); 
 box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.26);
  animation: fadeInLeftBig;
  animation-duration: 2s;
+ font-family: 'Poppins', sans-serif;
 }
 .surpevisor h1{
     color: hsl(234, 12%, 34%);
@@ -57,7 +58,7 @@ box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.26);
 .surpevisor p{
     color: hsl(229, 6%, 66%, 0.9);
     font-weight: 400;
-   max-width: 211px;
+   max-width: 275px;
 }
 .s-img{
     display: flex;
@@ -65,20 +66,22 @@ box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.26);
     animation: heartBeat;
     animation-duration: 2s;
     animation-delay: 3s;
+    margin-top: 5px;
 }
 
 .Team-Builder{
     background-color: white;
     border-top: 5px solid hsl(0, 78%, 62%);
     border-radius: 5px;
-    width: 311px;
-    height: 205px;
+    width: 383px;
+    height: 242px;
     padding: 20px;
     margin: 25px 13px 25px 13px;
     -webkit-box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.26); 
 box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.26);
 animation:fadeInDownBig;
  animation-duration: 2s;
+ font-family: 'Poppins', sans-serif;
 }
 .Team-Builder h1{
     color: hsl(234, 12%, 34%);
@@ -87,7 +90,7 @@ animation:fadeInDownBig;
 .Team-Builder p{
     color: hsl(229, 6%, 66%, 0.9);
     font-weight: 400;
-   max-width: 229px;
+   max-width: 305px;
 }
 .t-img{
     display: flex;
@@ -95,19 +98,21 @@ animation:fadeInDownBig;
     animation: heartBeat;
     animation-duration: 2s;
     animation-delay: 3s;
+    margin-top: 5px;
 }
 .Karma{
     background-color: white;
     border-top: 5px solid hsl(34, 97%, 64%);
     border-radius: 5px;
-    width: 311px;
-    height: 205px;
+    width: 383px;
+    height: 242px;
     padding: 20px;
     margin: 13px 13px 25px 13px;
     -webkit-box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.26); 
 box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.26);
 animation: fadeInUpBig;
  animation-duration: 2s;
+ font-family: 'Poppins', sans-serif;
 }
 .Karma h1{
     color: hsl(234, 12%, 34%);
@@ -116,7 +121,7 @@ animation: fadeInUpBig;
 .Karma p{
     color: hsl(229, 6%, 66%, 0.9);
     font-weight: 400;
-   max-width: 234px;
+   max-width: 321px;
 }
 .k-img{
     display: flex;
@@ -124,19 +129,21 @@ animation: fadeInUpBig;
     animation: heartBeat;
     animation-duration: 2s;
     animation-delay: 3s;
+    margin-top: 5px;
 }
 .Calculator{
     background-color: white;
     border-top: 5px solid hsl(212, 86%, 64%);
     border-radius: 5px;
-    width: 311px;
-    height: 205px;
+    width: 383px;
+    height: 242px;
     padding: 20px;
     margin: 25px 25px 25px 13px;
     -webkit-box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.26); 
 box-shadow: 5px 5px 13px 5px rgba(0,0,0,0.26);
 animation: fadeInRightBig;
  animation-duration: 2s;
+ font-family: 'Poppins', sans-serif;
 }
 .Calculator h1{
     color: hsl(234, 12%, 34%);
@@ -145,7 +152,7 @@ animation: fadeInRightBig;
 .Calculator p{
     color: hsl(229, 6%, 66%, 0.9);
     font-weight: 400;
-   max-width: 240px;
+   max-width: 322px;
 }
 .c-img{
     display: flex;
@@ -153,6 +160,7 @@ animation: fadeInRightBig;
     animation: heartBeat;
     animation-duration: 2s;
     animation-delay: 3s;
+    margin-top: 5px;
 }
 footer{
     display: flex;
